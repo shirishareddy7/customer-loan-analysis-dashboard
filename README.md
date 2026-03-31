@@ -28,3 +28,5 @@ Analyze home ownership impact on last payment status
 - Data Visualization (Charts, Pivot Tables, Dashboard)
 
   ## Dashboard
+  ![WhatsApp Image 2026-02-09 at 8 28 30 PM](https://github.com/user-attachments/assets/0abeee76-e0ec-4e6b-beeb-f866b210af49)
+
