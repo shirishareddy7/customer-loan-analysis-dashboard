@@ -11,7 +11,7 @@ The objective of this project is to analyze customer loan data from 2007–2011 
 - Examine state-wise and month-wise loan status performance
 - Analyze home ownership impact on last payment status
 
--Dahboard Interaction <a href="https://github.com/shirishareddy7/customer-loan-analysis-dashboard/blob/main/yourfile.xlsx">View Dashboard</a>
+-Dashboard Interaction <a href="https://github.com/shirishareddy7/customer-loan-analysis-dashboard/blob/main/yourfile.xlsx">View Dashboard</a>
 
 ##  Project Process
 - Cleaned and prepared the loan dataset (handled missing values and formatting)  
