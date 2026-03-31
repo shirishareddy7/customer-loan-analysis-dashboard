@@ -30,7 +30,7 @@ The objective of this project is to analyze customer loan data from 2007–2011 
   ## Dashboard
   ![WhatsApp Image 2026-02-09 at 8 28 30 PM](https://github.com/user-attachments/assets/0abeee76-e0ec-4e6b-beeb-f866b210af49)
 
-  ## Key Insights
+  ## Project Insights
 
 - Loan amount increased significantly from 2007 to 2011, showing strong lending growth  
 - Grade B and C loans contribute the highest revolving balance compared to other grades  
