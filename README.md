@@ -30,3 +30,17 @@ Analyze home ownership impact on last payment status
   ## Dashboard
   ![WhatsApp Image 2026-02-09 at 8 28 30 PM](https://github.com/user-attachments/assets/0abeee76-e0ec-4e6b-beeb-f866b210af49)
 
+  ## Key Insights
+
+- Loan amount increased significantly from 2007 to 2011, showing strong lending growth  
+- Grade B and C loans contribute the highest revolving balance compared to other grades  
+- Verified customers contribute more to total payments than non-verified customers  
+- Loan performance varies across states and months, with some periods showing higher defaults  
+- Customers with home ownership (Mortgage) show better repayment trends than others  
+
+
+## Final Conclusion
+
+The analysis highlights that loan growth, customer verification, loan grade, and home ownership play a key role in loan performance. 
+The dashboard enables better monitoring of trends and supports data-driven decisions for risk management and lending strategies.
+
