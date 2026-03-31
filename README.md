@@ -5,11 +5,11 @@ The objective of this project is to analyze customer loan data from 2007–2011 
 - <a href="https://github.com/shirishareddy7/customer-loan-analysis-dashboard/tree/main">Dataset</a>
 
 ## Questions (KPIs)
-Analyze year-wise loan amount trends to identify growth patterns
-Evaluate loan grade and sub-grade wise revolving balance
-Compare total payments for verified vs non-verified customers
-Examine state-wise and month-wise loan status performance
-Analyze home ownership impact on last payment status
+- Analyze year-wise loan amount trends to identify growth patterns
+- Evaluate loan grade and sub-grade wise revolving balance
+- Compare total payments for verified vs non-verified customers
+- Examine state-wise and month-wise loan status performance
+- Analyze home ownership impact on last payment status
 
 -Dahboard Interaction <a href="https://github.com/shirishareddy7/customer-loan-analysis-dashboard/blob/main/yourfile.xlsx">View Dashboard</a>
 
